@@ -1,4 +1,6 @@
 # Loan Data Exploration
+![Loans](https://i.pinimg.com/originals/6f/9b/ac/6f9bac5be5cae5fbda58830c47fbb066.jpg)
+
 ## by Albert Atsu Dellor
 
 This project explores a dataset containing 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others
